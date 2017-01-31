@@ -1,0 +1,12 @@
+http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+http://mirror2.malwaredomains.com/files/justdomains
+http://www.networksec.org/grabbho/block.txt
+https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt
+https://isc.sans.edu/feeds/suspiciousdomains_High.txt
+https://lists.malwarepatrol.net/cgi/getfile?receipt=f1485786152&product=8&list=dansguardian
+https://lists.malwarepatrol.net/cgi/getfile?receipt=f1485786152&product=8&list=firekeeper
+https://lists.malwarepatrol.net/cgi/getfile?receipt=f1485786152&product=8&list=mozilla_adblock
+https://lists.malwarepatrol.net/cgi/getfile?receipt=f1485786152&product=8&list=smoothwall
+https://lists.malwarepatrol.net/cgi/getfile?receipt=f1485786152&product=8&list=symantec_smtp_security
+https://lists.malwarepatrol.net/cgi/getfile?receipt=f1485786152&product=8&list=symantec_websecurity
